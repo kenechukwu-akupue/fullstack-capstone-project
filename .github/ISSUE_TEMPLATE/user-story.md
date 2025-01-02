@@ -1,9 +1,9 @@
 ---
 name: User Story
 about: define user story
-title: ''
-labels: ''
-assignees: ''
+title: 'giftlink'
+labels: '1'
+assignees: 'ken'
 
 ---
 
