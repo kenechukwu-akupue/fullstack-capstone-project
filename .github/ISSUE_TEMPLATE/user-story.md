@@ -2,7 +2,7 @@
 name: User Story
 about: define user story
 title: 'giftlink'
-labels: '1'
+labels: 'new'
 assignees: 'ken'
 
 ---
